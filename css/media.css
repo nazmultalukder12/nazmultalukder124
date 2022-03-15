@@ -1,0 +1,90 @@
+@media (max-width: 575px){
+
+    header h1{
+
+        font-size: 70px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+
+        display: inline;
+    }
+
+    .do-section .owl-item.active.center .item-all{
+
+        width: 284px;
+        margin: auto !important;
+    }
+
+    .testimonials-section .test-all{
+
+        margin: auto;
+    }
+
+}
+
+
+@media (max-width: 320px){
+
+    header h1{
+
+        font-size: 50px;
+    }
+
+    header p {
+
+        font-size: 18px;
+        
+    }
+
+    .plan-section .plan-items {
+
+width: 97%;
+
+margin: auto;
+
+}
+
+.testimonials-section .owl-nav .owl-prev{
+
+top: 618px;
+
+left: 160px;
+}
+
+
+
+.testimonials-section .owl-nav .owl-next {
+
+top: 618px;
+
+left: 230px;
+}
+
+    
+
+    .btn-project{
+
+margin-top: 30px;
+
+padding: 12px 45px;
+
+}
+
+    .all-btn {
+       
+text-align: center;
+    }
+
+  
+
+    .post-section .all-post{
+
+
+    }
+.testimonials-section .test-all {
+    margin: auto;
+    width: 100%;
+}
+
+}
